@@ -321,6 +321,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Helper Scripts/TagManager.cs"
 "Assets/Scripts/Player Scripts/CharacterAnimation.cs"
+"Assets/Scripts/Player Scripts/PlayerAttack.cs"
 "Assets/Scripts/Player Scripts/PlayerMovement.cs"
 -langversion:8.0
 
